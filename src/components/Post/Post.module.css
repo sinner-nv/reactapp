@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;900&family=Source+Sans+Pro:wght@600;900&display=swap');
+
+.post {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid teal;
+    border-radius: 3px;
+    margin: 10px;
+    padding: 5px;
+    width: 60%;
+    min-width: 814px;
+}
+
+.titlePost {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 30px;
+    margin-bottom: 5px;
+}
+
+.bodyPost {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+}
+
+.footerPost {
+    align-self:flex-end;
+    color: rgb(1, 122, 122);
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 12px;
+}
+
+.flexFroButtonDelete {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+}

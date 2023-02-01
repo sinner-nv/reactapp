@@ -1,0 +1,15 @@
+.page__main {
+    display: flex;
+}
+
+.page__pag {
+    border: 1px solid teal;
+    margin: 2px;
+    padding: 2px;
+    font-size: medium;
+    cursor: pointer;
+}
+
+.page__click {
+    border: 2px solid rgb(2, 58, 58);
+}

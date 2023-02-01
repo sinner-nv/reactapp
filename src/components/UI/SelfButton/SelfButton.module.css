@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;900&family=Source+Sans+Pro:wght@600;900&display=swap');
+
+.btn {
+    margin-top: 5px;
+    border: 2px solid teal;
+    border-radius: 3px;
+    background: transparent;
+    color: teal;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 13px;
+    padding: 2px;
+}
